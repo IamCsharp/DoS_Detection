@@ -1,1 +1,1 @@
-# DoS_Detection script KIR18686921
+# DoS_Detection In Python KIR18686921
